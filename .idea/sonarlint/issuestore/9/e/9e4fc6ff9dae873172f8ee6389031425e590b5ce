@@ -1,0 +1,15 @@
+
+‚
+java:S5838’">Use assertThat(actual).isEqualByComparingTo(expected) instead.(œÔ½˜8¼êÏÃƒ2J$96beac41-ec34-4d0b-a16e-e86f590a226b
+
+java:S5838°">Use assertThat(actual).isEqualByComparingTo(expected) instead.(İĞš8¼êÏÃƒ2J$62b3244a-5889-4460-adbb-27c960667567
+‚
+java:S5838Ğ">Use assertThat(actual).isEqualByComparingTo(expected) instead.(êù Ö8¼êÏÃƒ2J$ea530f6f-4387-49cc-a1f6-3bb46f96df01
+‚
+java:S5838Ñ">Use assertThat(actual).isEqualByComparingTo(expected) instead.(İÖì³8¼êÏÃƒ2J$1363c2bc-e3b7-4a36-b772-baf863f4a133
+Š
+java:S1128"GRemove this unused import 'br.ada.caixa.exceptions.ValidacaoException'.(—–– 8¼êÏÃƒ2J$0415712d-6d17-4e60-8d4b-4a7192cc1027
+x
+java:S1128"0Remove this unused import 'org.mockito.Mockito'.(áòöˆıÿÿÿÿ8¼êÏÃƒ2J$b72228b7-5d1e-4a6f-98c8-9072821a4daa
+˜
+java:S1128"PRemove this unused import 'org.springframework.boot.test.mock.mockito.MockBean'.(ì‰şËøÿÿÿÿ8¼êÏÃƒ2J$1d584562-b7b5-4365-b52f-90cd43b7ca3c
